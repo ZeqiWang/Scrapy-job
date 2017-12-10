@@ -6,3 +6,4 @@
   zhilian   ->   http://sou.zhaopin.com/
 
 
+  <img src="heihei.jpg" />
